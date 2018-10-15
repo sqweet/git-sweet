@@ -1,2 +1,6 @@
 this is my colleague
+<<<<<<< HEAD
 colleague`s update
+=======
+sweet`s update
+>>>>>>> 9fbbb4ddfc37a6e66110aaae954ae1b9c5b9705d
